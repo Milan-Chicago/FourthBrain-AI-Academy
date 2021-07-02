@@ -1,0 +1,2 @@
+# FourthBrain-AI-Academy
+16 Week Boot Camp reviewing the core ML concepts and learning how to scale and deploy models and ending with an industry sponsored capstone project and presentation.   Tools used:  ML Deployment with Flask, FastApi, AWS Sagemaker and Ec2 instances, ML deployment on PaaS (Heroku on AWS, AWS Beanstalk) vs Iaas (AWS Elastic computing or Ec2), Python, Tensorflow, Keras, pandas, scikit-learn, Pillow, OpenCV, Matplotlib.
